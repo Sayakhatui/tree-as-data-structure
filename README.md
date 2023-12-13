@@ -2,3 +2,5 @@
 contains all the possible questions related to tree data structure 
 <br>
 of the book made easy data structure and  algorithm
+
+i stareted with basic operation
